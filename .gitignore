@@ -1,0 +1,14 @@
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+
+# Questa generated simulation files
+simulation/questa/
+
+# Quartus temporary files
+*.qws
+*.rpt
+*.summary
+*.sof
+*.pof
